@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Robert, an Executive Assistant to the CEO, BBS graduate, and Code Institute's Fulll Stack student!<br><br>- 🔭 I'm currently working on Code Institute's 4th portfolio project (CRUD)<br>- 🌱 I'm currently learning Bootstrap<br>- 💬 Ask me about my interests<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Robert, an Executive Assistant to the CEO, BBS graduate, and Code Institute's Fulll Stack student!<br><br>- 🔭 I'm currently working on Code Institute's 4th portfolio project (CRUD)<br>- 🌱 I'm currently learning Bootstrap<br>- 💬 Ask me about my interests<br>- ⚡ In my free time I love reading books and playing House Flipper 2!</p>
 
 ###
 
