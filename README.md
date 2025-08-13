@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Robert, a former Executive Assistant to the CEO, BBS graduate, and Code Institute's Full Stack student!<br><br>- 🔭 I'm currently working on Code Institute's 4th portfolio project (CRUD)<br>- 🌱 I'm currently learning Bootstrap<br>- 💬 Ask me about my interests<br>- ⚡ In my free time I love reading books and playing House Flipper 2!</p>
+<p align="left">I'm Robert, a former Executive Assistant to the CEO, BBS graduate, and currently, a full-stack software engineer.<br><br>- 🔭 I'm currently working for Silence Speaks, the UK-based start-up AI British Sign Language company.<br>- 🌱 I'm currently learning Jekyll, Gatsby, and ReactJS.<br>- 💬 Ask me about my interests<br>- ⚡ In my free time I love reading books and playing House Flipper 2!</p>
 
 ###
 
